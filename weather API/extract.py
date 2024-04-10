@@ -18,8 +18,3 @@
 # print(f'{CITY} is a city in {country_name}')
 # print(f'sunrise time in {CITY} is {sunrise_time}')
 # print(f'sunset time in {CITY} is {sunset_time}')
-
-tk = (8 + 9 + 8) / 3
-gk = 0.5
-ck = 6
-print(5 * 0.2 + gk * 0.3 + ck * 0.5)
